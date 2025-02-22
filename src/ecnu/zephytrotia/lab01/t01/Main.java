@@ -10,7 +10,7 @@ package ecnu.zephytrotia.lab01.t01;
 import java.util.*;
 
 public class Main {
-    private static final int N = 100010;
+    private static final int N = 1000010;
     private static final int[] arr = new int[N];
     private static final int[] temp = new int[N];
     public static void main(String[] args) {
