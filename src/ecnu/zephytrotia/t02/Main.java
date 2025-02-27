@@ -5,7 +5,7 @@
  * @Version: 1.0
  */
 
-package ecnu.zephytrotia.lab01.t02;
+package ecnu.zephytrotia.t02;
 
 import java.util.*;
 
